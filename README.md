@@ -18,7 +18,8 @@
 - 🐧 Linux terminal & CLI lover  
 - 💡 Focused on problem-solving & real-world projects  
 - 📚 Learning Python, Java, Bash, Lua, SQL  
-- 🔧 Multi-distro Linux user: Debian, Kali  
+- 🔧 Multi-distro Linux user: Debian, Kali
+- 🎮 NeonMTA Server Owner
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWNibTd5N29wanY2djIwaTNxbXJ3NGx5bHkwZ3Ywbzl0MWRsZGs2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rvNfVjgBS4J3ugFCFo/giphy.gif" width="300" alt="Coding GIF"/>
@@ -39,8 +40,7 @@
 - **JavaScript** 💎
 
 ### 🔧 Tools & Platforms
-- Git & GitHub  
-- Virtualization: VMs, Networking, MikroTik  
+- Git & GitHub    
 - Linux & CLI automation  
 - Terminal hacks & system tweaks
 
