@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Self-Taught Developer & Linux Enthusiast 🚀<br/>
-  🐧 Debian | Kali | Pop!_OS | Tux Lover<br/>
+  🐧 Linux Lover<br/>
   💻 Building real projects, learning daily, mastering skills
 </p>
 
