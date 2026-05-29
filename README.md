@@ -14,12 +14,12 @@
 
 ## 🧩 About Me
 
-- 🎯 18 years old, self-taught developer  
-- 🐧 Linux terminal & CLI lover  
-- 💡 Focused on problem-solving & real-world projects  
-- 📚 Learning Python, Java, Bash, Lua, SQL  
+- 🎯 18 years old, self-taught developer
+- 🐧 Linux terminal & CLI lover
+- 💡 Focused on problem-solving & real-world projects
+- 📚 Learning Python, Bash, Lua, SQL
 - 🔧 Multi-distro Linux user: Debian, Kali
-- 🎮 NeonMTA Server Owner
+- 🎮 NeonMTA Server Owner & Scripter
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWNibTd5N29wanY2djIwaTNxbXJ3NGx5bHkwZ3Ywbzl0MWRsZGs2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rvNfVjgBS4J3ugFCFo/giphy.gif" width="300" alt="Coding GIF"/>
@@ -34,10 +34,6 @@
 - **Bash** 🖥️  
 - **Lua (MTA)** 🎮 
 - **Python** 🐍    
-
-### 📘 Learning
-- **Java** ☕  
-- **JavaScript** 💎
 
 ### 🔧 Tools & Platforms
 - Git & GitHub    
@@ -56,10 +52,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjMzeHkzZmhtZ3o5ZmVvNHE0dXAyMDd4bDMweDdmbXhqbnk2YWlzciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="Projects GIF"/>
 </p>
 
-- 🧰 Python scripts & Linux utilities    
-- 📦 Bash & Lua automation  
-- 📊 SQL database learning & practice  
-- 🌐 Full-stack exploration & small projects  
+- 🧰 Python scripts & Linux utilities
+- 📦 Bash & Lua automation
+- 📊 SQL database learning & practice
+- 🌐 Full-stack exploration & small projects
 
 ---
 
