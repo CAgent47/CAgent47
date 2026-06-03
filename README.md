@@ -36,7 +36,8 @@
 - **Python** 🐍    
 
 ### 🔧 Tools & Platforms
-- Git & GitHub    
+- Git & GitHub
+- Linkedin
 - Linux & CLI automation  
 - Terminal hacks & system tweaks
 
