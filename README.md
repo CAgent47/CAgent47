@@ -29,7 +29,7 @@
 
 ## 💻 Tech Stack
 
-### ⭐ Specialized
+### ⭐ Currently Working With
 - **SQL** 🗄️  
 - **Bash** 🖥️  
 - **Lua (MTA)** 🎮 
