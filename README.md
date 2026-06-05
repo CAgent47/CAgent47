@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <b>Mohammad</b></h1>
 
 <p align="center">
-  🚀 Self-Taught Developer & Linux Enthusiast 🚀<br/>
-  🐧 Linux Lover<br/>
+  🚀 Self-Taught Developer & GNU/Linux Enthusiast 🚀<br/>
+  🐧 GNU/Linux Lover<br/>
   💻 Building real projects, learning daily, mastering skills
 </p>
 
@@ -15,10 +15,10 @@
 ## 🧩 About Me
 
 - 🎯 18 years old, self-taught developer
-- 🐧 Linux terminal & CLI lover
+- 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, Lua, SQL
-- 🔧 Multi-distro Linux user: Debian, Kali
+- 🔧 Multi-distro GNU/Linux user: Debian, Kali
 - 🎮 NeonMTA Server Owner & Scripter
 
 <p align="center">
@@ -38,7 +38,7 @@
 ### 🔧 Tools & Platforms
 - Git & GitHub
 - Linkedin
-- Linux & CLI automation  
+- GNU/Linux & CLI automation
 - Terminal hacks & system tweaks
 
 <p>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🐧 Linux Vibe
+## 🐧 GNU/Linux Vibe
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
@@ -89,7 +89,7 @@
 ## 📂 Featured Projects
 
 - [Python Automation Scripts](#) 🐍  
-- [Bash & Linux Tools](#) 🖥️  
+- [Bash & GNU/Linux Tools](#) 🖥️  
 - [Lua MTA Scripts](#) 🎮  
 - [Networking & VM Experiments](#) 🌐  
 
