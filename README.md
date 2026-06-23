@@ -33,13 +33,12 @@
 - **SQL** 🗄️  
 - **Bash** 🖥️  
 - **Lua (MTA)** 🎮 
-- **Python** 🐍    
+- **Python(Advanced learning)** 🐍    
 
 ### 🔧 Tools & Platforms
-- Git & GitHub
+- Git & GitHub & GitLab
 - Linkedin
-- GNU/Linux & CLI automation
-- Terminal hacks & system tweaks
+- GNU/Linux & CLI Lover
 - X
 
 <p>
