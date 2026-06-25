@@ -17,8 +17,8 @@
 - 🎯 18 years old, self-taught developer
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
-- 📚 Learning Python, Bash, Lua, SQL
-- 🔧 Multi-distro GNU/Linux user: Debian, Kali
+- 📚 Learning Python, Bash, SQL
+- 🔧 Distro: Debian 12 (Stable)
 - 🎮 NeonMTA Server Owner & Scripter
 
 <p align="center">
@@ -54,9 +54,9 @@
 </p>
 
 - 🧰 Python scripts & Linux utilities
-- 📦 Bash & Lua automation
+- 📦 Bash automation
 - 📊 SQL database learning & practice
-- 🌐 Full-stack exploration & small projects
+- 🌐 Full-stack exploration & Small & Medium projects
 
 ---
 
@@ -111,7 +111,7 @@
 
 <p align="center">
   <a href="https://github.com/CAgent47"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/mohammad-shaygan-2a96a8387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-HERE-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/mohammad-shaygan-2a96a8387/"><img src="https://img.shields.io/badge/LinkedIn-HERE-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ![Banner](Logo/banner.png)
