@@ -17,8 +17,8 @@
 - 🎯 18 years old, self-taught developer
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
-- 📚 Learning Python, Bash, SQL
-- 🔧 Distro: Debian 12 (Stable)
+- 📚 Learning Python, Bash, SQL, Networking, DevOps
+- 🔧 Distro: Debian 12
 - 🎮 NeonMTA Server Owner & Scripter
 
 <p align="center">
@@ -36,7 +36,7 @@
 - **Python(Advanced learning)** 🐍    
 
 ### 🔧 Tools & Platforms
-- Git & GitHub & GitLab
+- Git & GitHub
 - Linkedin
 - GNU/Linux & CLI Lover
 - X
@@ -56,7 +56,6 @@
 - 🧰 Python scripts & Linux utilities
 - 📦 Bash automation
 - 📊 SQL database learning & practice
-- 🌐 Full-stack exploration & Small & Medium projects
 
 ---
 
