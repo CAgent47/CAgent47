@@ -18,8 +18,8 @@
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps
-- 🔧 Distro: Debian 12
-- 🎮 NeonMTA Server Owner & Scripter
+- 🔧 Distro: Fedora 44 (WorkStation)
+- 🎮 NeonMTA GameMof Owner & Scripter
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWNibTd5N29wanY2djIwaTNxbXJ3NGx5bHkwZ3Ywbzl0MWRsZGs2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rvNfVjgBS4J3ugFCFo/giphy.gif" width="300" alt="Coding GIF"/>
