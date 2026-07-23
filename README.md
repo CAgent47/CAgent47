@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux terminal & CLI lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, SQL, Networking, DevOps
-- 🔧 Distro: Fedora 44 (WorkStation)
+- 🔧 Distro: Debian 13 & KALI
 - 🎮 NeonMTA GameMod Owner & Scripter
 
 <p align="center">
