@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux Logo"/>
-  <img src="Logo\fedora.png" width="110" alt="Debian Logo"/>
+  <img src="Logo\fedora.png" width="110" alt="Fedora Logo"/>
 </p>
 
 ---
