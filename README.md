@@ -17,8 +17,8 @@
 - 🎯 18 years old, self-taught developer
 - 🐧 GNU/Linux & BSD CLI Lover
 - 💡 Focused on problem-solving & real-world projects
-- 📚 Learning Python, Bash, SQL, Networking, DevOps, Go
-- 🔧 Distro: Debian 13 GNOME
+- 📚 Learning Python, Bash, Networking, DevOps
+- 🔧 Distro: Temporarily Windows 🪟 
 - 🎮 MTA Scripter With Lua
 
 <p align="center">
