@@ -18,7 +18,7 @@
 - 🐧 GNU/Linux & BSD CLI Lover
 - 💡 Focused on problem-solving & real-world projects
 - 📚 Learning Python, Bash, Networking, DevOps
-- 🔧 Distro: GNU/Linux & BSD (Dual Boot)
+- 🔧 Distro: Ubuntu 26.04 LTS GNOME
 - 🎮 MTA Scripter With Lua
 
 <p align="center">
