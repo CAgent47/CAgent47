@@ -92,7 +92,7 @@
 
 ---
 
-## 🎵 Now Playing (Optional)
+## 🎵 Now Playing
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Now Playing" width="300"/>
