@@ -32,7 +32,13 @@
 ### ⭐ Currently Working With
 - **SQL** 🗄️  
 - **Bash** 🖥️  
-- **Python(Advanced learning)** 🐍    
+- **Python(Advanced learning)** 🐍
+
+
+# Activity
+
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAgent47&theme=github_dark)](https://git.io/streak-stats)
+
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
@@ -111,11 +117,6 @@
   <a href="https://www.linkedin.com/in/mohammad-shaygan-2a96a8387/"><img src="https://img.shields.io/badge/LinkedIn-HERE-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
----
-
-# Activity
-
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAgent47&theme=github_dark)](https://git.io/streak-stats)
 
 ---
 
