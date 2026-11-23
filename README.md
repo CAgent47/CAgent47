@@ -39,6 +39,7 @@
 
 [![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CAgent47&theme=github_dark)](https://git.io/streak-stats)
 
+---
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
